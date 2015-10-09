@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCanvas</string>
+    <string name="action_settings">Settings</string>
+    <string name="store2pic">保存为图片</string>
+</resources>
